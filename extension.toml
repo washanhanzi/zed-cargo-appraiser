@@ -1,0 +1,12 @@
+id = "cargo-appraiser"
+name = "Cargo Appraiser"
+version = "0.0.1"
+schema_version = 1
+authors = ["francismajere@gmail.com"]
+description = "LSP for Cargo.toml"
+repository = "https://github.com/washanhanzi/zed-cargo-appraiser"
+
+[language_servers.cargo-appraiser]
+name = "cargo-appraiser"
+language = "TOML"
+languages = ["TOML", "Rust"]
