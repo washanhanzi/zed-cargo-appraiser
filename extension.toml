@@ -9,4 +9,4 @@ repository = "https://github.com/washanhanzi/zed-cargo-appraiser"
 [language_servers.cargo-appraiser]
 name = "cargo-appraiser"
 language = "TOML"
-languages = ["TOML", "Rust"]
+languages = ["TOML"]
