@@ -1,6 +1,6 @@
 id = "cargo-appraiser"
 name = "Cargo Appraiser"
-version = "0.2.0"
+version = "0.2.1"
 schema_version = 1
 authors = ["francismajere@gmail.com"]
 description = "LSP for Cargo.toml. You need to enable zed's inlay_hints."
